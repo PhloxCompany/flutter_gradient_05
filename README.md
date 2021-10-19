@@ -5,6 +5,11 @@ Gradient for Page | Gradient for AppBar | Gradient for Text
 --- | --- | ---
 ![Alt text](./assets/images/image1.png?raw=true "Optional Title") | ![Alt text](./assets/images/image2.png?raw=true "Optional Title") | ![Alt text](./assets/images/image3.png?raw=true "Optional Title")     
 
+```
+flutter pub get
+flutter run
+```
+
 <br><br>
 [Watch it on Youtube](https://youtube.com)
 
