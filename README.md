@@ -1,16 +1,13 @@
-# flutter_gradient_page_05
+# Flutter Gradient
 
-A new Flutter project.
+## Gradient for Page 
 
-## Getting Started
+<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/image1.png" height="512em"/>
 
-This project is a starting point for a Flutter application.
+## Gradient for AppBar 
 
-A few resources to get you started if this is your first Flutter project:
+<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/image2.png" height="512em"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Gradient for Text 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/image3.png" height="512em"/>
