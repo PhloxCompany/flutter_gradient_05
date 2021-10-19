@@ -1,22 +1,9 @@
 # Flutter Gradient
 
 
-Screen1 | Screen2 | Screen3
+Gradient for Page | Gradient for AppBar | Gradient for Text
 --- | --- | ---
 ![Alt text](./assets/images/image1.png?raw=true "Optional Title") | ![Alt text](./assets/images/image2.png?raw=true "Optional Title") | ![Alt text](./assets/images/image3.png?raw=true "Optional Title")     
-
-
-## Gradient for Page 
-
-<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/image1.png" height="512em"/>
-
-## Gradient for AppBar 
-
-<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/image2.png" height="512em"/>
-
-## Gradient for Text 
-
-<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/image3.png" height="512em"/>
 
 <br><br>
 [Watch it on Youtube](https://youtube.com)
