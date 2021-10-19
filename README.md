@@ -1,5 +1,11 @@
 # Flutter Gradient
 
+
+Screen1 | Screen2 | Screen3
+--- | --- | ---
+![Alt text](./assets/images/image1.png?raw=true "Optional Title") | ![Alt text](./assets/images/image2.png?raw=true "Optional Title") | ![Alt text](./assets/images/image3.png?raw=true "Optional Title")     
+
+
 ## Gradient for Page 
 
 <img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/image1.png" height="512em"/>
